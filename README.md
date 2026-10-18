@@ -22,6 +22,6 @@ In this project, I:
 3. **Model the data:** facts and dimensions, ready for reports.
 4. **Analyze it:** answer business questions with SQL.
 
-The SQL scripts for steps 1–3 can be found in the scripts folder, while the SQL scripts for step 4 are located in the analytics_scripts folder.
+The SQL scripts for steps 1–3 can be found in the `scripts` folder, while the SQL scripts for step 4 are located in the `analytics_scripts` folder.
 
 ---
