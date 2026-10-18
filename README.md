@@ -1,6 +1,7 @@
 # sql-data-warehouse-project
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics
 
+
 ---
 ## Data Architecture
 
@@ -20,5 +21,7 @@ In this project, I:
 2. **Build the ETL pipelines:** load the source files and move the data through the layers.
 3. **Model the data:** facts and dimensions, ready for reports.
 4. **Analyze it:** answer business questions with SQL.
+
+The SQL scripts for steps 1–3 can be found in the scripts folder, while the SQL scripts for step 4 are located in the analytics_scripts folder.
 
 ---
